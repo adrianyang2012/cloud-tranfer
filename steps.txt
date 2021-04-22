@@ -1,0 +1,4 @@
+first open the file
+|               | 
+if changes needed change else do return the data
+then return the data
